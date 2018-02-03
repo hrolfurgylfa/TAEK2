@@ -7,4 +7,5 @@ Git verkefni 2
 
 2. ROM stendur fyrir Read-only memory og það tekur mjög langan tíma að skrifa á það og stundum er það jafnvel ekki hægt svo að það er oftast notað fyrir firmware sem þarf ekki eða mjög sjaldan að uppfæra
 
-3. 
+3. Fyrirbyggjandi viðhald er viðhald sem þú gerir á hlut til þess að þurfa ekki að gera við hann eða að hann eiðinleggist, eins og að fara með bíl í skoðun
+
