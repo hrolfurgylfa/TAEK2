@@ -23,4 +23,5 @@ Git verkefni 2
 
 7. Í lokaðri spurningu eru bara tvö svör, já eða nei, eins og "fórstu út með ruslið í gær?", þetta er lokuð spurning en opnar spurningar hafa endalaus mismunandi svör sem gætu komið eins og "hvenær fórstu út með ruslið", þetta er opin spurning vegna þess að svarið gæti verip hvað sem er.
 
- 
+8.  Jaðartæki eru tæki sem eru tengd tölvunni en eru ekki inni í henni, eins og lyklaborð og mýs
+
