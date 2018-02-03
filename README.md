@@ -9,3 +9,5 @@ Git verkefni 2
 
 3. Fyrirbyggjandi viðhald er viðhald sem þú gerir á hlut til þess að þurfa ekki að gera við hann eða að hann eiðinleggist, eins og að fara með bíl í skoðun
 
+4. ESD stendur fyrir Electronic discharge og það er þegar maður fær stuð við að snerta eitthvern hlut. Í tölvum er nausinlegt að passa að þetta fari ekki í tölvuna vegna þess að rafmagnið gæti eiðinlagt eitthvað í tölvuni svoað við höfum anti-static armband sem við festum við jörð annað hvort í innstungu eða við aflgjafa sem er tengdur í vegginn en slökkt á aftaná því
+
