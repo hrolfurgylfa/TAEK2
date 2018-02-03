@@ -21,3 +21,6 @@ Git verkefni 2
 	5. Prufa hvort allt virki ekki
 	6. Skirfa niður allt sem gerðist svo að það sé hægt að nota það næst ef þetta gerist aftur og til þess að geta sýnt viðskiptavininum hvað var gert og hvað vandamálið var
 
+7. Í lokaðri spurningu eru bara tvö svör, já eða nei, eins og "fórstu út með ruslið í gær?", þetta er lokuð spurning en opnar spurningar hafa endalaus mismunandi svör sem gætu komið eins og "hvenær fórstu út með ruslið", þetta er opin spurning vegna þess að svarið gæti verip hvað sem er.
+
+ 
