@@ -25,3 +25,9 @@ Git verkefni 2
 
 8.  Jaðartæki eru tæki sem eru tengd tölvunni en eru ekki inni í henni, eins og lyklaborð og mýs
 
+9. Inntakstæki eru töki sem taka upplýsingar úr heiminum og fara með í tölvunna, dæmi umm inntakstæki eru:
+	* Lyklaborð
+	* Myndavél
+	* Svúningsskyndjari(gyroscope)
+
+10. 
