@@ -31,3 +31,15 @@ Git verkefni 2
 	* Svúningsskyndjari(gyroscope)
 
 10. 
+|Nafn						|Verð		|Linkar																													|
+|---------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------|
+|Intel Core i7 8700K		|55,950		|https://att.is/product/intel-core-i7-8700k-orgjorvi																	|
+|Corsair H75				|18,950		|https://att.is/product/corsair-h75-vokvakaeling																		|
+|Gigabyte Z370 HD3			|19,000		|https://tolvutaekni.is/collections/modurbord/products/gigabyte-z370-hd3-lga1151-coffee-lake-1xm-2						|
+|Crucial 2x8GB DDR4 2400MHz	|22,900		|https://tolvutaekni.is/collections/vinnsluminni/products/crucial-16gb-kit-2x8gb-ddr4-2400mhz-cl16						|
+|Corsair Carbide SPEC-04	|15,900		|https://tolvutaekni.is/collections/tolvukassar/products/corsair-carbide-spec-04-mid-tower-svartur-raudur				|
+|Samsung 850 EVO 250GB		|13,900		|https://tolvutaekni.is/collections/hardir-diskar-og-ssd/products/samsung-850-evo-250gb-2-5-solid-state-sata-6-0gb-s-ssd|
+|Seagate BarraCuda 2TB		|9,900		|https://tolvutaekni.is/collections/hardir-diskar-og-ssd/products/seagate-2tb-sata3-64mb-i-flytiminni-7200sn			|
+|MSI GTX1080TI GamingX		|114,950	|https://att.is/product/msi-gtx1080ti-gamingx-skjakort																	|
+|Corsair RM750x				|20,900		|https://tolvutaekni.is/collections/aflgjafar/products/corsair-rm750x-kraftmikill-750w-modular-aflgjafi-80-gold			|
+|Samtals					|292,350	|																														|
