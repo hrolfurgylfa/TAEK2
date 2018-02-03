@@ -13,3 +13,11 @@ Git verkefni 2
 
 5. Þegar maður er að velja spennugjafa þarf að hugsa hversu mikið allir hlutirnir draga sem maður er að fara að nota og líka hvað USB tækin sem maður er að fara að nota geta dregið, það er eiginlega ómugulegt að reikna þetta nákvæmlega sjálfur svo að það er mjög sniðugt að nota forrit sem reiknar þetta eins og http://www.coolermaster.com/power-supply-calculator/ en svo verður maður alltaf að bæta smá við vegna þess að þegar power supply eldast minnkar geta þeirra pínu og svo þarf maður sérstaklega að bæta slatta við ef maður er að spá í að overclocka
 
+6. Sex skrefin við að laga vandamál við tölvu eru:
+	1. Finna vandamálið
+	2. Búa til kenningu um hvað er að valda vandamálinu
+	3. Prufa kenninguna og finna hvað er að valda vandamálinu
+	4. Búa til plan hvernig það á að laga vandamálið
+	5. Prufa hvort allt virki ekki
+	6. Skirfa niður allt sem gerðist svo að það sé hægt að nota það næst ef þetta gerist aftur og til þess að geta sýnt viðskiptavininum hvað var gert og hvað vandamálið var
+
